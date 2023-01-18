@@ -16,7 +16,7 @@ public class G08_MatematikselAlistirmalar {
         double kenar1= uzunluklar.nextDouble();
         double kenar2= uzunluklar.nextDouble();
 
-        System.out.println("dikdortgenin alani : " + (kenar1*kenar2));
+        System.out.println("Dikdortgenin Alani : " + (kenar1*kenar2));
 
     }
 }
