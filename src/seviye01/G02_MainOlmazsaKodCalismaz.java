@@ -1,4 +1,4 @@
-package hafta01;
+package seviye01;
 
 public class G02_MainOlmazsaKodCalismaz {
 

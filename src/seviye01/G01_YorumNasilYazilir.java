@@ -1,4 +1,4 @@
-package hafta01;
+package seviye01;
 
 public class G01_YorumNasilYazilir {
     public static void main(String[] args) {

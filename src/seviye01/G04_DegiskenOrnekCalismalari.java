@@ -1,4 +1,4 @@
-package hafta01;
+package seviye01;
 
 public class G04_DegiskenOrnekCalismalari {
     public static void main(String[] args) {

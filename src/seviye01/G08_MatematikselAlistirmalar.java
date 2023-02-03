@@ -1,4 +1,4 @@
-package hafta01;
+package seviye01;
 
 import java.util.Scanner;
 
